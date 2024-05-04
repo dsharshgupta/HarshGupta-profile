@@ -86,8 +86,4 @@
   <img height="200" src="https://giffiles.alphacoders.com/979/9790.gif"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/dsharshgupta/dsharshgupta/output/snake.svg" alt="Snake animation" />
-
-###
